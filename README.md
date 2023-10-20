@@ -30,8 +30,8 @@ a bank time deposit. The model should ideally yield interpretable results.  Used
 different classifiers [k-nearest neighbors, logistic regression, decision trees, and 
 support vector machines] to measure performance and results based on accuracy.
 
-|-------|------------|----------------|----------------|
 | model | Train Time | Train Accuracy | Test Accuracy |
+| ----- | ---------- | -------------- | -------------- |
 | LogisticRegression | 1.929807 | 0.900142 |0.899571 |
 | KNN | 0.109848 | 0.914363 | 0.890669 |
 | Decision Tree | 0.235368 | 0.995595 | 0.833697 |
@@ -40,7 +40,6 @@ support vector machines] to measure performance and results based on accuracy.
 | KNN Optimize | 279.344610 | 0.905172 | 0.895849 |
 | Decision Tree Optimize | 220.261254 | 0.889008 | 0.890750 |
 | SVC Optimize | 615.981198 | 0.897818 | 0.896820 |
-|-------|------------|----------------|----------------|
 
 Not a significant difference in accuracy between the basic models vs the optimize models. Base 
 on our goal to select the best prediction model with ideally interpretable results; the best 

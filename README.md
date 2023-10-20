@@ -55,7 +55,7 @@ I find this intriguing and merits further analysis just to define feature import
 to campaign acceptance (y). An option would be to perform a Permutation Importance analysis.
 
 ### Notebook URL
-https://github.com/aegonzalezp/PracticalApp_3/blob/main/prompt_III_AlvaroGonzalez.ipynb
+https://github.com/aegonzalezp/PracticalApp_3/blob/main/prompt_III%20-%20AlvaroGonzalez.ipynb
 
 
 
